@@ -17,4 +17,4 @@
 
 ### Detalhes:
 - Matéria: Introdução a Programação de Computadores.
-- Atividade: Peças de Xadrez - Nível Iniciante.
+- Atividade: Peças de Xadrez - Nível Novato.
